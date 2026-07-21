@@ -1,0 +1,4 @@
+settings.gradle
+
+rootProject.name = "PTC Weekly Alarm"
+include ':app'
